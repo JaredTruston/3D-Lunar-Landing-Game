@@ -1,0 +1,39 @@
+﻿  ofApp.cpp
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(88): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(89): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(101): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(102): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(114): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\3d\ofnode.h(310): note: see declaration of 'ofNode::rotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(189): warning C4996: 'ofTrueTypeFont::loadFont': Use load instead
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\oftruetypefont.h(193): note: see declaration of 'ofTrueTypeFont::loadFont'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(331): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(1008): note: see declaration of 'ofRotate'
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(782): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(1096): warning C4715: 'Ship::getLanderBounds': not all control paths return a value
+c:\users\jaredtruston\documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myapps\3dlandinggame\src\ofapp.cpp(1105): warning C4715: 'Ship::getShipModel': not all control paths return a value
+     Creating library bin\3DLandingGame.lib and object bin\3DLandingGame.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  3DLandingGame.vcxproj -> C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\3DLandingGame.exe
+  
+  	                   2	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 3385856	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\assimp64.dll
+  	  *EXTRA File 		 6942208	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\FreeImage.dll
+  
+  	                   1	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 3385856	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\assimp64.dll
+  	  *EXTRA File 		 1503232	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\Users\JaredTruston\Documents\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\apps\myApps\3DLandingGame\bin\fmodexL64.dll
